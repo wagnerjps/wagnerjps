@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá 👋, sou o Wagner Silva da WagDev
+
+### Desenvolvimento Fullstack
+* [NodeJs](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [React Native](https://reactnative.dev/)
+
 
 <!--
 **wagnerjps/wagnerjps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
