@@ -23,7 +23,7 @@ Esta é uma linha de código em PHP.
 Esta é uma linha de código em HTML.
 ~~~
 
-![Texto alternativo opcional se a imagem não carregar](/imgs/dolinhoflix_001.png =200)
+![Texto alternativo opcional se a imagem não carregar](/imgs/dolinhoflix_001.png =200x200)
 
 <!--
 **wagnerjps/wagnerjps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
