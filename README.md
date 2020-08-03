@@ -1,4 +1,4 @@
-# Olá 👋 e bem vindos!
+# Olá 👋 e seja bem vindo!
 
 Me chamo Wagner Silva do Brasil. Trabalho com desevolvimento desde 2008 e atualemente estou mais voltado ao desenvolvimento Fullstack com ferramentas como 
 [NodeJs](https://nodejs.org/en/), 
@@ -19,12 +19,19 @@ dentre outras. Sou uma pessoa muito fã de tecnologias, focado em aprender as no
 
 O que gosto de fazer no meu tempo livre é assistir filmes e séries (🎞️), ler livros 📚, jogar vídeo games (🎮), fazer caminhadas (🚶🏻‍♂️) e conversar com amigos (👯).
 
-Pode me econtrar pelos seguintes meios:
+Gostaria de me acompanhar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
-[![Instagram Badge](https://img.shields.io/badge/%40-wagnerjps-red)](https://www.instagram.com/wagnerjps/)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fwagnerjps)](https://twitter.com/wagnerjps)
-[![Facebook Badge](https://img.shields.io/badge/F-Facebook-blue)](https://www.facebook.com/wagnerjps)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wagnerjps/)](https://www.instagram.com/wagnerjps/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/wagnerjps)](https://twitter.com/wagnerjps)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/wagnerjps)](https://www.facebook.com/wagnerjps)
+
+
+
+
+
+
+
 
 
 <!--
