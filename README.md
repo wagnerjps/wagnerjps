@@ -1,34 +1,28 @@
-## Olá 👋, sou o Wagner Silva da WagDev
+# Olá 👋, sou o Wagner Silva da WagDev
 
-### Desenvolvimento Fullstack
+## Desenvolvimento Fullstack
 * [NodeJs](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
 
-````jsx
-function(){
-
-}
-````
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
-
-![Texto alternativo opcional se a imagem não carregar](/imgs/dolinhoflix_001.png =200x200)
+## Portifólio
+### DolinhoFlix
 
 
-certo!
+<a href='dolinhoflix.vercel.app'>
+<img src="./imgs/dolinhoflix_001.png" width="200" height="200" />
+</a>
+<a href='dolinhoflix.vercel.app'>
+<img src="./imgs/dolinhoflix_002.png" width="200" height="200" />
+</a>
 
-Bora!
+
+## Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
+[![Linkedin Badge](https://img.shields.io/badge/%24-convertmymoney-green)](http://convertmymoney-wagdev.vercel.app/)
+
+
 
 <!--
 **wagnerjps/wagnerjps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
