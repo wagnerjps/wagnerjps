@@ -16,7 +16,7 @@
 </a>
 
 
-## Contato
+## Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
 [![Linkedin Badge](https://img.shields.io/badge/%24-convertmymoney-green)](http://convertmymoney-wagdev.vercel.app/)
