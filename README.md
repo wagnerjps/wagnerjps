@@ -1,6 +1,6 @@
 # Olá 👋 e seja bem vindo!
 
-Me chamo Wagner Silva do Brasil. Trabalho com desevolvimento desde 2008 e atualemente estou mais voltado ao desenvolvimento Fullstack com ferramentas como 
+Me chamo Wagner Silva e sou brasileiro. Trabalho com desevolvimento desde 2008 e atualemente estou mais voltado ao desenvolvimento Fullstack com ferramentas como 
 [NodeJs](https://nodejs.org/en/), 
 [React](https://reactjs.org/), 
 [React Native](https://reactnative.dev/), 
@@ -21,10 +21,10 @@ O que gosto de fazer no meu tempo livre é assistir filmes e séries (🎞️), 
 
 Gostaria de me acompanhar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wagnerjps/)](https://www.instagram.com/wagnerjps/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/wagnerjps)](https://twitter.com/wagnerjps)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/wagnerjps)](https://www.facebook.com/wagnerjps)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wagnerjps/)](https://www.instagram.com/wagnerjps/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wagnerjps)](https://twitter.com/wagnerjps)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/wagnerjps)](https://www.facebook.com/wagnerjps)
 
 
 
