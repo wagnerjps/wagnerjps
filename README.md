@@ -9,10 +9,10 @@
 ### DolinhoFlix
 
 <a href='dolinhoflix.vercel.app'>
-<img src="imgs/dolinhoflix_001.png" width="200" height="200" />
+<img src="https://github.com/wagnerjps/wagnerjps/blob/master/imgs/dolinhoflix_001.png" width="200" height="200" />
 </a>
 <a href='dolinhoflix.vercel.app'>
-<img src="imgs/dolinhoflix_002.png" width="200" height="200" />
+<img src="https://github.com/wagnerjps/wagnerjps/blob/master/imgs/dolinhoflix_002.png" width="200" height="200" />
 </a>
 
 
