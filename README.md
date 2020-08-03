@@ -5,6 +5,25 @@
 * [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
 
+````jsx
+function(){
+
+}
+````
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+
+![Texto alternativo opcional se a imagem não carregar](/imgs/dolinhoflix_001.png =200)
 
 <!--
 **wagnerjps/wagnerjps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
