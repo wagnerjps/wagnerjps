@@ -1,12 +1,21 @@
-# Olá 👋 e seja bem vindo!
+# Wagner Silva
 
-Me chamo Wagner Silva e sou brasileiro. Trabalho com desevolvimento desde 2008 e atualemente estou mais voltado ao desenvolvimento Fullstack com ferramentas como 
+## Olá pessoal 👋
+😊 Sou um entusiasta e apaixonado tecnologia. Estou sempre buscando aprender as melhores tecnicas e ferramentas de desenvolvimento. 💗
+
+🏢 **Atualmente**: Estou a procura de uma recolocação no mercado. Também estou desenvolvendo um projeto pessoa, 💗 a **WagDev** 💗, minha agência de desenvolvimento e meu sonho. Mas claro que novas oportunidades são sempre bem vindas.
+
+🔎 **Busco**: Colaborar com projetos em Front-end usando React, CSS, HTML e Javascript.
+
+📚 **Minha stack**: 
 [NodeJs](https://nodejs.org/en/), 
 [React](https://reactjs.org/), 
 [React Native](https://reactnative.dev/), 
-[Javascript](https://www.javascript.com/), 
+[Javascript](https://www.javascript.com/),
+[Typescript](https://www.typescriptlang.org/), 
 [HTML](https://www.w3.org/html/),
 [CSS](https://www.w3.org/Style/CSS/Overview.en.html),
+[Bootstrap](https://getbootstrap.com/),
 [Next](https://nextjs.org/), 
 [Axios](https://github.com/axios/axios),
 [Gatsby](https://www.gatsbyjs.org/),
@@ -14,14 +23,18 @@ Me chamo Wagner Silva e sou brasileiro. Trabalho com desevolvimento desde 2008 e
 [MySQL](https://www.mysql.com/), 
 [Firestore](hhttps://firebase.google.com/docs/firestore), 
 [SQLite](https://www.sqlite.org/index.html),
-[PostgreSQL](https://www.postgresql.org/) 
-dentre outras. Sou uma pessoa muito fã de tecnologias, focado em aprender as novidades da área e desejo tornar minha marca WagDev desenvolvimentos um empresa em breve.
+[PostgreSQL](https://www.postgresql.org/)
 
-O que gosto de fazer no meu tempo livre é assistir filmes e séries (🎞️), ler livros 📚, jogar vídeo games (🎮), fazer caminhadas (🚶🏻‍♂️) e conversar com amigos (👯).
+😏 **Sobre mim**: O que gosto de fazer no meu tempo livre é assistir filmes e séries (🎞️), ler livros 📚, jogar vídeo games (🎮), fazer caminhadas (🚶🏻‍♂️) e conversar com amigos (👯).
 
-Gostaria de me acompanhar?
+
+📧 Entre em contato comigo?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
+[![Gmail Badge](https://img.shields.io/badge/-wagnerjps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerjps@gmail.com)](mailto:wagnerjps@gmail.com)
+
+Ou por minhas redes sociais: 
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wagnerjps/)](https://www.instagram.com/wagnerjps/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wagnerjps)](https://twitter.com/wagnerjps)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/wagnerjps)](https://www.facebook.com/wagnerjps)
