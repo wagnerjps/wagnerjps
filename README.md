@@ -30,8 +30,8 @@
 
 📧 Entre em contato comigo?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerjps)](https://www.linkedin.com/in/wagnerjps)
-[![Gmail Badge](https://img.shields.io/badge/-wagnerjps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wagnerjps@gmail.com)](mailto:wagnerjps@gmail.com)
+[![Linkedin Badge](https://tinyurl.com/y2ynsh27)](https://tinyurl.com/yyeyus33)
+[![Gmail Badge](https://tinyurl.com/y4y3v4ne)](mailto:wagnerjps@gmail.com)
 
 Ou por minhas redes sociais: 
 
