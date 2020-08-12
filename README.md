@@ -35,9 +35,9 @@
 
 Ou por minhas redes sociais: 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wagnerjps/)](https://www.instagram.com/wagnerjps/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wagnerjps)](https://twitter.com/wagnerjps)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/wagnerjps)](https://www.facebook.com/wagnerjps)
+[![Instagram Badge](https://tinyurl.com/yymz7avn)](https://tinyurl.com/y4rzkwwb)
+[![Twitter Badge](https://tinyurl.com/y2yle94t)](https://twitter.com/wagnerjps)
+[![Facebook Badge](https://tinyurl.com/y3erpep4)](https://tinyurl.com/y4bq9l9x)
 
 
 
