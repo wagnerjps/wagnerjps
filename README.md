@@ -3,9 +3,9 @@
 ## Olá pessoal 👋
 😊 Sou um entusiasta e apaixonado tecnologia. Estou sempre buscando aprender as melhores tecnicas e ferramentas de desenvolvimento. 💗
 
-🏢 **Atualmente**: Estou a procura de uma recolocação no mercado. Também estou desenvolvendo um projeto pessoa, 💗 a **WagDev** 💗, minha agência de desenvolvimento e meu sonho. Mas claro que novas oportunidades são sempre bem vindas.
+🏢 **Atualmente**: Estou a procura de uma recolocação no mercado. Também estou desenvolvendo um projeto pessoal, 💗 a **WagDev** 💗, minha agência de desenvolvimento e meu sonho. Mas claro que novas oportunidades são sempre bem vindas.
 
-🔎 **Busco**: Colaborar com projetos em Front-end usando React, CSS, HTML e Javascript.
+🔎 **Busco**: Colaborar com projetos usando NodeJS, React, React Native, CSS, HTML e Javascript.
 
 📚 **Minha stack**: 
 [NodeJs](https://nodejs.org/en/), 
