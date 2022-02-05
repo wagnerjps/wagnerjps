@@ -24,6 +24,7 @@
 [Firestore](hhttps://firebase.google.com/docs/firestore), 
 [SQLite](https://www.sqlite.org/index.html),
 [PostgreSQL](https://www.postgresql.org/)
+[Design UX&UI / Figma](https://www.figma.com/files/project/12831563/WagDev?fuid=826546157916507777) 
 
 😏 **Sobre mim**: O que gosto de fazer no meu tempo livre é assistir filmes e séries (🎞️), ler livros 📚, jogar vídeo games (🎮), fazer caminhadas (🚶🏻‍♂️) e conversar com amigos (👯).
 
